@@ -10,29 +10,47 @@ Segundo Trabajo Práctico de Programación Orientada a Objetos
 # Toda la información se muestra por consola, sin solicitar datos al usuario
 //-------------------------------------------------------------------------------------------------------------
 # TECNOLOGIAS Y HERRAMIENTAS UTILIZADAS
-# Java :17/21: Lenguaje de programación orientada a objetos
-# Spring BOOT: frameWork de Java utilizado como base para estructurar, configurar y ejecutar
-# Maven : herramienta de gestión y construcción de proyectos
-# Lombok : biblioteca de java que reduce códigos repetitivos
-# Visual Estudio Code: editor de codigos
-# GitHub:plataforma que permite al desarrollador almacenar,gestionar y colaborar en proyectos de códigos.
+# Java :17/21:
+.Lenguaje de programación orientada a objetos
+# Spring BOOT: 
+.frameWork de Java utilizado como base para estructurar, configurar y ejecutar
+# Maven :
+.herramienta de gestión y construcción de proyectos
+# Lombok :
+.biblioteca de java que reduce códigos repetitivos
+# Visual Estudio Code: 
+.editor de codigos
+# GitHub:
+.plataforma que permite al desarrollador almacenar,gestionar y colaborar en proyectos de códigos.
 //---------------------------------------------------------------------------------------------------------------
 ## CONCEPTOS UTILIZADOS
-# Clases: es un molde que define los atributos y métodos que tendrán los objetos
-# Objetos: es una instancia de una clase que se crea con new y tiene sus propios datos
-# Herencia:permite que una clse hija herede  los atributos y métodos de una clase padre, evitando repetir código
-# Clase Abstracta:es una clase que no se puede instanciar directamente , no crea objetos directamente
-# Interfaces:es un contrato que establece métodos que deben implemnetar las clases 
-# Interfaz comparable:permite establcer el orden natural de los objetos utilizando el metodo compareTO( )
-# Encapsulamiento: consiste en proteger los atributos de una clase y controlar el acceso a sus datos
-# Polimorfismo: permite trabajar con objetos  de diferentes clases hijas utilizando el tipo de su clase padre
-# Constructores:son los encargados de inicializar los atributos cuando se crea un objeto
-# Sobre escritura de métodos con @Override:permite implementar un método heredado o declarado en una interfaz con el comportamiento que necesita cada clase
+# Clases:
+.es un molde que define los atributos y métodos que tendrán los objetos
+# Objetos:
+.es una instancia de una clase que se crea con new y tiene sus propios datos
+# Herencia:
+.permite que una clse hija herede  los atributos y métodos de una clase padre, evitando repetir código
+# Clase Abstracta:
+.es una clase que no se puede instanciar directamente , no crea objetos directamente
+# Interfaces:
+.es un contrato que establece métodos que deben implemnetar las clases 
+# Interfaz comparable:
+.permite establcer el orden natural de los objetos utilizando el metodo compareTO( )
+# Encapsulamiento: 
+.consiste en proteger los atributos de una clase y controlar el acceso a sus datos
+# Polimorfismo: 
+.permite trabajar con objetos  de diferentes clases hijas utilizando el tipo de su clase padre
+# Constructores:
+.son los encargados de inicializar los atributos cuando se crea un objeto
+# Sobre escritura de métodos con @Override:
+.permite implementar un método heredado o declarado en una interfaz con el comportamiento que necesita cada clase
 # Colecciones List y ArrayList
 .List : es una interfaz que permite trabajar con una lista ordenada de elementos
 .ArrayList es una clase que implementa list y permite agregar elementos dinamicos
-# API Stream: permite trabajar con los elementos de una colección para realizar busquedas ,filtros y ordenamiento
-# Anotaciones Lombok: es una biblioteca que geenera automaticamente  codigo repetetitivos mediante anotaciones
+# API Stream:
+.permite trabajar con los elementos de una colección para realizar busquedas ,filtros y ordenamiento
+# Anotaciones Lombok: 
+.es una biblioteca que geenera automaticamente  codigo repetetitivos mediante anotaciones
 
 //------------------------------------------------------------------------------------------------------------
 ## ORGANIZACION DEL PROYECTO
