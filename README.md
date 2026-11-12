@@ -2,13 +2,13 @@
 Segundo Trabajo Práctico de Programación Orientada a Objetos
 
 # Descripción del trabajo
-# El programa simula el funcionamiento de una concesionaria de vehiculos
-# Muestra una lista de autos y motos
-# Identifica los vehículos mas caro y los mas baratos
-# Busca un modelo que contiene letra Y.
-# Ordena los vehículos  por precio y por orden natural
-# Toda la información se muestra por consola, sin solicitar datos al usuario
-//-------------------------------------------------------------------------------------------------------------
+.- El programa simula el funcionamiento de una concesionaria de vehículos
+.-Muestra una lista de autos y motos
+.- Identifica los vehículos mas caro y los mas baratos
+.- Busca un modelo que contiene letra Y.
+.-Ordena los vehículos  por precio y por orden natural
+.-Toda la información se muestra por consola, sin solicitar datos al usuario
+
 # TECNOLOGIAS Y HERRAMIENTAS UTILIZADAS
 # Java :17/21:
 .Lenguaje de programación orientada a objetos
@@ -22,7 +22,7 @@ Segundo Trabajo Práctico de Programación Orientada a Objetos
 .editor de codigos
 # GitHub:
 .plataforma que permite al desarrollador almacenar,gestionar y colaborar en proyectos de códigos.
-//---------------------------------------------------------------------------------------------------------------
+
 ## CONCEPTOS UTILIZADOS
 # Clases:
 .es un molde que define los atributos y métodos que tendrán los objetos
@@ -52,7 +52,7 @@ Segundo Trabajo Práctico de Programación Orientada a Objetos
 # Anotaciones Lombok: 
 .es una biblioteca que geenera automaticamente  codigo repetetitivos mediante anotaciones
 
-//------------------------------------------------------------------------------------------------------------
+
 ## ORGANIZACION DEL PROYECTO
 # Interfaz IDatosDelVehiculo
 .Primero cree la interfaz IDatosDelVehiculo, donde declaré el método obtenerFichaTecnica().
